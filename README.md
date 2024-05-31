@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**ru-ab/ru-ab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨🏻‍💻 About Me
+- 👂 My name is Rustam Abdrakhmanov
+- 🔭 I’m currently working on the RSS School Stage#2 Final Project.
+- 📫 How to reach me:
+  - Telegram: @zeroseo
 
-Here are some ideas to get you started:
+My best qualities are perseverance and a thirst for new knowledge. I am enthusiastic about exploring new programming languages and technologies. I am responsive and enjoy helping other people.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🏓 Fields of Interests
+- Web Development
+- DevOps
+
+## 🚀 Some Tools I Have Used and Learned
+- HTML/CSS
+- JavaScript/TypeScript
+- React
+- NodeJS
+- NestJS
+- Linux
+- Ansible
+- Docker/Docker Swarm
+- Git
+
+## 🔨 My Projects
+- [Habit Tracker](https://ru-ab.github.io/habit-tracker)
+- [Hangman Game](https://rolling-scopes-school.github.io/ru-ab-JSFE2023Q4/hangman/)
+- [Nonograms](https://rolling-scopes-school.github.io/ru-ab-JSFE2023Q4/nonograms/)
+- [English Puzzles](https://rolling-scopes-school.github.io/ru-ab-JSFE2023Q4/rss-puzzle/)
